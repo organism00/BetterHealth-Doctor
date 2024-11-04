@@ -1,0 +1,23 @@
+.scrollable-div {
+  overflow-y: auto;
+}
+.scrollable-div::-webkit-scrollbar {
+  width: 5px;
+  scroll-behavior: smooth;
+}
+
+.scrollable-div::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background-color: rgba(81, 86, 190, 0.2);
+}
+.scrollable-div::-webkit-scrollbar-track {
+  border-radius: 2px;
+  background-color: #f1f1f1;
+}
+
+.profileCard {
+  background-image: url(../assets/Images/a.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
