@@ -386,7 +386,7 @@ const Doctordashboard = () => {
                 
                         <section className='h-auto  flex gap-x-8 lg:flex-row flex-col mt-10'> 
                             <div className='lg:w-[31%] w-full  h-96 rounded-lg border shadow-lg border-gray-200 flex flex-col gap-y-9 items-center'>
-                                <div className='w-full h-14 border-b border-b-gray-200 flex items-center pl-4'>
+                                <div className='w-full h-14 border-b border-b-gray-300 flex items-center pl-4'>
                                     <h1 className='text-3xl font-light whitespace-nowrap'>Analytics</h1>
                                 </div>
                                 <div className='w-[370px]'>
